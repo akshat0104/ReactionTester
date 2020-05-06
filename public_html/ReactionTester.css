@@ -1,0 +1,33 @@
+  
+            body {
+                
+                font-family: sans-serif;
+                
+            }
+        
+            #shape {
+                
+                width: 200px;
+                height: 200px;
+                background-color: red;
+                display: none;
+                position: relative;
+                
+            }
+            
+            .bold {
+                
+                font-weight: bold;
+                
+            }/* 
+    Document   : ReactionTester
+    Created on : May 6, 2020, 8:14:01 PM
+    Author     : sakshi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
